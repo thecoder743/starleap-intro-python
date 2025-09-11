@@ -27,7 +27,7 @@ def do_twice(f):
 def print_spam():
     print('spam')
 
-do_twice(print_spat)
+do_twice(print_spam)
 
 # Do your work for Excercise 2 here.
 
@@ -37,6 +37,18 @@ print("Ch 3 Exercise 2: Not implemented") # Delete this line when you write your
 
 print("********** Ch 3 Exercise 3 **********")
 
-# Do your work for Exercise 3 here.
+def grid():
+    print("+----+----+")
+    print("|    |    |")
+    print("|    |    |")
+    print("|    |    |")
+    print("|    |    |")
+    print("+----+----+")
+    print("|    |    |")
+    print("|    |    |")
+    print("|    |    |")
+    print("|    |    |")
+    print("+----+----+")
+grid()
 
 print("Ch 3 Exercise 3: Not implemented") # Delete this line when you write your code!
